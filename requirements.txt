@@ -1,0 +1,12 @@
+langchain
+langchain_openai
+streamlit
+langchain_community
+pypdf
+langchain-text-splitters
+chromadb
+faiss-cpu
+arxiv
+wikipedia
+python-dotenv
+
